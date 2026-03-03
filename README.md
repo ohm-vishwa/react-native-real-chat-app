@@ -1,2 +1,2 @@
 # react-native-real-chat-app
-Project Under Contruction... (ᓀ‸ᓂ)
+Project Under Construction... (ᓀ‸ᓂ)
